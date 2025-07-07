@@ -28,6 +28,3 @@ git clone [https://github.com/seu-usuario/meu-portfolio.git](https://github.com/
 
 2. Abra o arquivo `index.html` no navegador de sua preferência.
 
----
-
-Desenvolvido por Marcos.
