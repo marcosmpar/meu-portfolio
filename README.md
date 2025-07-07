@@ -16,14 +16,14 @@ Este é um portfólio pessoal simples desenvolvido com HTML, CSS e JavaScript pu
 
 Este projeto está publicado via GitHub Pages:
 
-[https://seu-usuario.github.io/meu-portfolio/](https://seu-usuario.github.io/meu-portfolio/)
+[https://marcosmpar.github.io/meu-portfolio/](https://marcosmpar.github.io/meu-portfolio/)
 
 ## Como executar localmente
 
 1. Clone o repositório:
 
 
-git clone [https://github.com/seu-usuario/meu-portfolio.git](https://github.com/seu-usuario/meu-portfolio.git)
+git clone [https://github.com/marcosmpar/meu-portfolio.git](https://github.com/marcosmpar/meu-portfolio.git)
 
 
 2. Abra o arquivo `index.html` no navegador de sua preferência.
