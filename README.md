@@ -1,5 +1,3 @@
-
-```markdown
 # Meu Portfólio Básico
 
 Este é um portfólio pessoal simples desenvolvido com HTML, CSS e JavaScript puro, sem frameworks.
@@ -23,14 +21,13 @@ Este projeto está publicado via GitHub Pages:
 ## Como executar localmente
 
 1. Clone o repositório:
-```
+
 
 git clone [https://github.com/seu-usuario/meu-portfolio.git](https://github.com/seu-usuario/meu-portfolio.git)
 
-```
+
 2. Abra o arquivo `index.html` no navegador de sua preferência.
 
 ---
 
 Desenvolvido por Marcos.
-```
